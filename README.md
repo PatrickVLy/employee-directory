@@ -36,3 +36,12 @@ This project is open source so feel free to make it your own
 <a name="questions"></a>
 ## Questions
 Feel free to check out my [GitHub](www.github.com/pattymcpat) repository. Also feel free to send me an email at <patrickly72@gmail.com> if you have any questions
+
+<a name="links"></a>
+## Links
+1. Deployed 
+https://pattymcpat.github.io/employee-directory/
+2. Repo
+https://github.com/pattymcpat/employee-directory
+3. Linked in
+https://www.linkedin.com/in/patrick-ly-aa280717a/
